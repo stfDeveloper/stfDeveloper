@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stfDeveloper
 - 👀 I’m interested in ...Growing up
-- 🌱 I’m currently learning ...HTML
+- 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...BOOLEAN
 - 📫 How to reach me ...329 984 3354
 
