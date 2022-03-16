@@ -1,1 +1,1 @@
-![gitArt](gitartwork.svg)
+![gitartwork](gitartwork.svg)
