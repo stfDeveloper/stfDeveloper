@@ -1,1 +1,1 @@
-/Users/stf/Desktop/gitArt/gitartwork.svg
+![gitartwork](gitartwork.svg)
