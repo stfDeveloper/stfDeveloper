@@ -1,2 +1,1 @@
-gitartwork.svg
-
+/Users/stf/Desktop/gitArt/gitartwork.svg
