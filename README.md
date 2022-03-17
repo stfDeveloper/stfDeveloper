@@ -1,1 +1,1 @@
-/Users/stf/Desktop/gitArt/gitartwork.svg
+![](https://github.com/stfDeveloper/gitArt/blob/master/gitartwork.svg)
